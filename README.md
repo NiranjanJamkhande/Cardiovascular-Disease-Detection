@@ -1,6 +1,7 @@
 ## Cardiovascular-Disease-Detection
 
-
+## The Problem Statement:
+To build an model to classify the patients to be healthy or suffering from cardiovascular disease based on the given attributes.
 
 ## Citation:
 1.	License	-	Unknown	
@@ -26,5 +27,4 @@
 
 All of the dataset values were collected at the moment of medical examination.
 
-## The Problem Statement:
-To build an model to classify the patients to be healthy or suffering from cardiovascular disease based on the given attributes.
+
