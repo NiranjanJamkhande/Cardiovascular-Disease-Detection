@@ -3,13 +3,10 @@
 
 
 ## Citation:
-1.	License	-	Unknown
-2.	
-3.	Domain	-	Public
-4.	
-5.	Dataset owner - Svetlana Ulianova
-6.	
-7.	Date created - 2019-01-20
+1.	License	-	Unknown	
+2.	Domain	-	Public	
+3.	Dataset owner - Svetlana Ulianova	
+4.	Date created - 2019-01-20
 
 
 
